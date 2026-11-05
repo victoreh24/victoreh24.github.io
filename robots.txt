@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://victoreh24.github.io/sitemap-index.xml
